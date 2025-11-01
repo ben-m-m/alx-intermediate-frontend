@@ -31223,6 +31223,13 @@ video {
   content: none;
 }
 
+@media (max-width: 768px) 
+{
+  main {
+    grid-template-columns: 1fr;
+  }
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
