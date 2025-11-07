@@ -1,0 +1,1 @@
+I checked if i have node js installed and which version with the command node -v. I had it with me so i proceeded to install SASS using the command npm install -g sass, which installs sass globally. I used the command sass --version to check the version and if install and found all was well as intended.
